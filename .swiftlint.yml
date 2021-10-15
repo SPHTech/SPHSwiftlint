@@ -46,7 +46,6 @@ opt_in_rules:
     - unused_import
     - unused_declaration
     - yoda_condition
-    - let_var_whitespace
 
 excluded:
     - ${PWD}/Carthage
