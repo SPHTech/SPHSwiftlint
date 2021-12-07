@@ -26,7 +26,6 @@ opt_in_rules:
     - empty_string
     - enum_case_associated_values_count
     - explicit_init
-    - explicit_self
     - fatal_error_message
     - file_name_no_space
     - first_where
@@ -44,8 +43,6 @@ opt_in_rules:
     - prefer_zero_over_explicit_init
     - reduce_into
     - sorted_first_last
-    - unused_import
-    - unused_declaration
     - yoda_condition
 
 excluded:
