@@ -10,19 +10,17 @@ disabled_rules:
     - force_try
     - nesting    
 
-only_rules:
+opt_in_rules:
     - attributes
     - closure_end_indentation
     - closure_spacing
     - collection_alignment
-    - conditional_returns_on_newline
     - contains_over_filter_count
     - contains_over_filter_is_empty
     - contains_over_first_not_nil
     - contains_over_range_nil_comparison
     - discouraged_object_literal
     - empty_collection_literal
-    - empty_count
     - empty_string
     - enum_case_associated_values_count
     - explicit_init
